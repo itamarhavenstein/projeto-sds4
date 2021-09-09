@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'boostrap/package.json';
+import 'bootstrap/dist/css/bootstrap.css';
 import 'assets/css/styles.css';
 import App from './App';
 
